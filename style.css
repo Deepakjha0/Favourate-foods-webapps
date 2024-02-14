@@ -1,0 +1,38 @@
+header{
+    background-color: #333;
+    padding: 4px;
+}
+ul span a{
+    color: white;
+    text-decoration: none;
+    
+}
+span a:hover{
+    background-color: #111;
+    width: 15px;
+    height: 15px;
+}
+h2{
+    margin: 25px 0;
+    padding: 2px;
+}
+#menu a{
+    text-decoration: none;
+    color: black;
+}
+#menu{
+    margin-bottom: 10px;
+}
+.food-item{
+    width: 500px;
+    height: 400px;
+}
+.images{
+    width: 50%;
+    margin: 0 auto;
+}
+P{
+    margin-left: 210px;
+    margin-bottom:40px;
+    margin-top: 15px;
+}
